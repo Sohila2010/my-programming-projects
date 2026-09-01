@@ -1,0 +1,5 @@
+print("ID Card")
+print("Name: Sohila")
+print("country:Egypt")
+print("Goal:AI engineer")
+print("Learning: python")
