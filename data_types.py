@@ -1,0 +1,14 @@
+name="sohila"
+print(type(name))
+age=15
+print(type(age))
+wieght=50.7
+print(type(wieght))
+myfriends=["Salma","Sohila","Anas","Zohir"]
+print(type(myfriends))
+ourages=(17,15,11,8)
+print(type(ourages))
+Ilovepython=True
+print(type(Ilovepython))
+ID={"name":"sohila","age":15,"country":"Egypt"}
+print(type(ID))
