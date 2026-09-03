@@ -1,0 +1,5 @@
+print("My AI Career Card")
+name="Sohila"
+goal="AI Engineer"
+skill="Python"
+print("My name is " +name +" "+"my goal is to be an "+ goal+" "+"and I learn "+skill)  
